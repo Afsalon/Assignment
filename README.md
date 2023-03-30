@@ -8,7 +8,9 @@ Category(extra)
 User model inherits AbstractUser, instead of using the usual approach of creating a one to one relationship with the default user model.
 
 
-The Content model has a foreign key relationship with category model. 
+The Content model has a foreign key relationship with category model and User model.
+
+The user field on content is not editable, the current logged in user is used.
 
 
 create_admins.py script can be used for seeding 
