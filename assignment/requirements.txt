@@ -1,0 +1,10 @@
+asgiref==3.6.0
+certifi @ file:///Users/ec2-user/ci_py311/certifi_1678321191472/work/certifi
+Django==3.2.5
+django-cors-headers==3.14.0
+django-crum==0.7.9
+djangorestframework==3.12.4
+djangorestframework-simplejwt==5.2.2
+PyJWT==2.6.0
+pytz==2023.3
+sqlparse==0.4.3
