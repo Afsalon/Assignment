@@ -24,7 +24,9 @@ all apis besides signup/create user requires authorization
 
 jwt authentication is used, passed as bearer token in postman and verified all the apis.
 
+![crows](https://github.com/Afsalon/Assignment/assets/68525687/ac062e27-cde8-44e6-b0ab-7c927e7fe0d2)
 
+<img width="1385" alt="history-bg" src="https://github.com/Afsalon/Assignment/assets/68525687/686dc167-2d17-4afb-ba9a-e01b4c2dc92e">
 
 Admin can create, get,edit and delete any content 
 
